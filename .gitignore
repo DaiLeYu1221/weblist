@@ -1,0 +1,6 @@
+# 安全忽略
+settings.json
+.encryption_key
+*.key
+logs/
+.env
